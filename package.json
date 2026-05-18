@@ -1,7 +1,7 @@
 {
-  "name": "tsr-freefire-like-api",
+  "name": "free-fire-like-api",
   "version": "1.0.0",
-  "description": "Custom Free Fire Like API for TSR Bot",
+  "description": "Custom Like API for TSR Bot",
   "main": "index.js",
   "dependencies": {
     "axios": "^1.6.0",
